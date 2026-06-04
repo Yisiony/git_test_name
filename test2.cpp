@@ -10,7 +10,7 @@ int main(){
     for(int i=0;i<5;i++){
         cout<<n[i]<<endl;
     }
-    for(int i=0;i<5;i++){
+    for(int i=0;i<3;i++){
         cout<<n[i]<<endl;
     }
     return 1;
